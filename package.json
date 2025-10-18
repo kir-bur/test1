@@ -1,0 +1,10 @@
+{
+  "name": "hse1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kira",
+  "license": "/Users/kiraburakova/Desktop/mediaservice ",
+  "devDependencies": {
+    "webpack": "^5.102.1"
+  }
+}
